@@ -52,7 +52,6 @@ java17-modern-features-practice
 ## ✅ Completed Work
 
 ### ✔ Day 1 – Java 17 Setup & Overview
-
 * Installed JDK 17 and configured environment
 * Executed Java 8 programs in Java 17
 * Understood LTS versions and migration basics
@@ -60,10 +59,17 @@ java17-modern-features-practice
 ---
 
 ### ✔ Day 2 – var Keyword (Type Inference)
-
 * Implemented `var` in collections, loops, and streams
 * Learned best practices and limitations
 * Avoided misuse scenarios
+
+### ✔ Day 3 – Switch Expressions (Modern Control Flow)
+* Implemented switch expressions using → syntax
+* Eliminated use of break and avoided fall-through issues
+* Used multiple case labels for cleaner conditions
+* Applied yield for returning values in complex logic
+* Practiced real-world backend scenarios like status and role handling
+
 
 #### Example: 
 
@@ -81,7 +87,6 @@ java17-modern-features-practice
 
 ## 🚧 In Progress / Upcoming
 
-* ⏳ Day 3 – Switch Expressions (Cleaner control flow)
 * ⏳ Day 4 – Records (Immutable DTOs)
 * ⏳ Day 5 – Pattern Matching (`instanceof`)
 * ⏳ Day 6 – Text Blocks (Multiline strings)
@@ -116,7 +121,7 @@ java17-modern-features-practice
 |--------|------------------------------|-------------|
 | Day 1  | Setup & Overview             | ✅ Completed |
 | Day 2  | var Keyword                  | ✅ Completed |
-| Day 3  | Switch Expressions           | ⏳ Pending   |
+| Day 3  | Switch Expressions           | ✅ Completed |
 | Day 4  | Records                      | ⏳ Pending   |
 | Day 5  | Pattern Matching             | ⏳ Pending   |
 | Day 6  | Text Blocks                  | ⏳ Pending   |
