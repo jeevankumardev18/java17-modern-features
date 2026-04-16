@@ -56,8 +56,6 @@ java17-modern-features-practice
 * Executed Java 8 programs in Java 17
 * Understood LTS versions and migration basics
 
----
-
 ### ✔ Day 2 – var Keyword (Type Inference)
 * Implemented `var` in collections, loops, and streams
 * Learned best practices and limitations
@@ -70,6 +68,12 @@ java17-modern-features-practice
 * Applied yield for returning values in complex logic
 * Practiced real-world backend scenarios like status and role handling
 
+### ✔ Day 4 – Records (Immutable Data Classes)
+
+* Implemented records to reduce boilerplate code
+* Used records for DTO-like structures
+* Accessed data using generated methods
+* Added validation using compact constructor
 
 #### Example: 
 
@@ -87,7 +91,6 @@ java17-modern-features-practice
 
 ## 🚧 In Progress / Upcoming
 
-* ⏳ Day 4 – Records (Immutable DTOs)
 * ⏳ Day 5 – Pattern Matching (`instanceof`)
 * ⏳ Day 6 – Text Blocks (Multiline strings)
 * ⏳ Day 7 – Sealed Classes (Controlled inheritance)
@@ -122,7 +125,7 @@ java17-modern-features-practice
 | Day 1  | Setup & Overview             | ✅ Completed |
 | Day 2  | var Keyword                  | ✅ Completed |
 | Day 3  | Switch Expressions           | ✅ Completed |
-| Day 4  | Records                      | ⏳ Pending   |
+| Day 4  | Records                      | ✅ Completed |
 | Day 5  | Pattern Matching             | ⏳ Pending   |
 | Day 6  | Text Blocks                  | ⏳ Pending   |
 | Day 7  | Sealed Classes               | ⏳ Pending   |
@@ -150,7 +153,7 @@ Java 17 doesn’t change core Java, but significantly improves:
 
 ## 🚀 Next Milestone
 
-Implementing **Switch Expressions (Day 3)** and applying them in backend logic.
+Implementing **Pattern Matching (instanceof) (Day 5)** and applying them in backend logic.
 
 ---
 
