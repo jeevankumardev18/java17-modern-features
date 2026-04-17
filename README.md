@@ -75,6 +75,15 @@ java17-modern-features-practice
 * Accessed data using generated methods
 * Added validation using compact constructor
 
+
+### ✔ Day 5 – Pattern Matching (instanceof)
+
+* Eliminated explicit casting using pattern matching
+* Improved readability and type safety
+* Used with multiple data types
+* Applied in backend-like response handling
+
+
 #### Example: 
 
 ```java
@@ -91,7 +100,6 @@ java17-modern-features-practice
 
 ## 🚧 In Progress / Upcoming
 
-* ⏳ Day 5 – Pattern Matching (`instanceof`)
 * ⏳ Day 6 – Text Blocks (Multiline strings)
 * ⏳ Day 7 – Sealed Classes (Controlled inheritance)
 * ⏳ Day 8 – Stream & Optional Enhancements
@@ -126,7 +134,7 @@ java17-modern-features-practice
 | Day 2  | var Keyword                  | ✅ Completed |
 | Day 3  | Switch Expressions           | ✅ Completed |
 | Day 4  | Records                      | ✅ Completed |
-| Day 5  | Pattern Matching             | ⏳ Pending   |
+| Day 5  | Pattern Matching             | ✅ Completed |
 | Day 6  | Text Blocks                  | ⏳ Pending   |
 | Day 7  | Sealed Classes               | ⏳ Pending   |
 | Day 8  | Streams & Optional           | ⏳ Pending   |
@@ -153,7 +161,7 @@ Java 17 doesn’t change core Java, but significantly improves:
 
 ## 🚀 Next Milestone
 
-Implementing **Pattern Matching (instanceof) (Day 5)** and applying them in backend logic.
+Implementing **Day 6 – Text Blocks** and applying them in backend logic.
 
 ---
 
