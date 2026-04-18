@@ -84,6 +84,14 @@ java17-modern-features-practice
 * Applied in backend-like response handling
 
 
+### ✔ Day 6 – Text Blocks (Multiline Strings)
+
+* Used text blocks (`"""`) for clean multiline strings
+* Replaced traditional string concatenation
+* Implemented SQL and JSON examples
+* Improved readability in backend-style queries
+
+
 #### Example: 
 
 ```java
@@ -100,7 +108,6 @@ java17-modern-features-practice
 
 ## 🚧 In Progress / Upcoming
 
-* ⏳ Day 6 – Text Blocks (Multiline strings)
 * ⏳ Day 7 – Sealed Classes (Controlled inheritance)
 * ⏳ Day 8 – Stream & Optional Enhancements
 * ⏳ Day 9 – Backend Integration (Spring Boot use cases)
@@ -135,7 +142,7 @@ java17-modern-features-practice
 | Day 3  | Switch Expressions           | ✅ Completed |
 | Day 4  | Records                      | ✅ Completed |
 | Day 5  | Pattern Matching             | ✅ Completed |
-| Day 6  | Text Blocks                  | ⏳ Pending   |
+| Day 6  | Text Blocks                  | ✅ Completed |
 | Day 7  | Sealed Classes               | ⏳ Pending   |
 | Day 8  | Streams & Optional           | ⏳ Pending   |
 | Day 9  | Backend Usage                | ⏳ Pending   |
@@ -161,7 +168,7 @@ Java 17 doesn’t change core Java, but significantly improves:
 
 ## 🚀 Next Milestone
 
-Implementing **Day 6 – Text Blocks** and applying them in backend logic.
+Implementing **Day 7 – Sealed Classes** and applying them in backend logic.
 
 ---
 
