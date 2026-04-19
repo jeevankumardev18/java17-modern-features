@@ -92,6 +92,13 @@ java17-modern-features-practice
 * Improved readability in backend-style queries
 
 
+### ✔ Day 7 – Sealed Classes (Controlled Inheritance)
+
+* Implemented sealed classes to restrict inheritance
+* Used permits keyword to define allowed subclasses
+* Applied polymorphism with sealed hierarchy
+* Built real-world example (Order processing system)
+
 #### Example: 
 
 ```java
@@ -108,7 +115,6 @@ java17-modern-features-practice
 
 ## 🚧 In Progress / Upcoming
 
-* ⏳ Day 7 – Sealed Classes (Controlled inheritance)
 * ⏳ Day 8 – Stream & Optional Enhancements
 * ⏳ Day 9 – Backend Integration (Spring Boot use cases)
 * ⏳ Day 10 – Interview Questions & Code Refactoring
@@ -143,7 +149,7 @@ java17-modern-features-practice
 | Day 4  | Records                      | ✅ Completed |
 | Day 5  | Pattern Matching             | ✅ Completed |
 | Day 6  | Text Blocks                  | ✅ Completed |
-| Day 7  | Sealed Classes               | ⏳ Pending   |
+| Day 7  | Sealed Classes               | ✅ Completed |
 | Day 8  | Streams & Optional           | ⏳ Pending   |
 | Day 9  | Backend Usage                | ⏳ Pending   |
 | Day 10 | Interview Prep               | ⏳ Pending   |
@@ -168,7 +174,7 @@ Java 17 doesn’t change core Java, but significantly improves:
 
 ## 🚀 Next Milestone
 
-Implementing **Day 7 – Sealed Classes** and applying them in backend logic.
+Implementing **Day 8 – Stream & Optional Improvements** and applying them in backend logic.
 
 ---
 
